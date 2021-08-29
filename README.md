@@ -11,5 +11,7 @@ Output of the file:
 
 ![hello](https://user-images.githubusercontent.com/84932430/131247571-1070a663-db84-492e-a533-e7e1012c1b19.png)
 
+Contents of file1 and file2:
+
 ![both](https://user-images.githubusercontent.com/84932430/131247572-f6e7dec7-1e11-41cd-be44-9a238afbdc66.png)
 
