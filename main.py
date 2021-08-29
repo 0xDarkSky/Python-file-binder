@@ -1,11 +1,17 @@
 def Merge():
-    with open("test1", "rb") as e:
+    a = input("FILE1: ") #input your first file name
+    
+    with open(f"{a}", "rb") as e:
          file1 = e.read()
 
-    with open("test2", "rb") as b:
+    b = input("FILE2: ") #input your second file 
+    
+    with open(f"{b}", "rb") as b:
          file2 = b.read()
 
-    with open("done", "wb") as df:
+    c = input("OUTPUT FILE NAME: ") 
+    
+    with open("{c}", "wb") as df:
          merged = file1 + file2
          df.write(merged)
 
