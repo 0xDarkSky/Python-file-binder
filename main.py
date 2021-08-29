@@ -9,7 +9,7 @@ def Merge():
     with open(f"{b}", "rb") as b:
          file2 = b.read()
 
-    c = input("OUTPUT FILE NAME: ") 
+    c = input("OUTPUT FILE: ") 
     
     with open(f"{c}", "wb") as df:
          merged = file1 + file2
