@@ -11,7 +11,7 @@ def Merge():
 
     c = input("OUTPUT FILE NAME: ") 
     
-    with open("{c}", "wb") as df:
+    with open(f"{c}", "wb") as df:
          merged = file1 + file2
          df.write(merged)
 
