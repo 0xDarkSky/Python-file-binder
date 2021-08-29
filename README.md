@@ -1,7 +1,7 @@
 # File binder
 Bind 2 files into 1 with Python. (You can use it with txt files, exe files and more), pretty basic script.
 
-# How to
+# How to:
 
 ![done](https://user-images.githubusercontent.com/84932430/131247552-f0ba84eb-0bfb-44d5-99a5-6ebd194f89f5.png)
 
