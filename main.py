@@ -14,5 +14,4 @@ def Merge():
     with open(f"{c}", "wb") as df:
          merged = file1 + file2
          df.write(merged)
-if __name__ == "__main__":
-    Merge()
+Merge()
